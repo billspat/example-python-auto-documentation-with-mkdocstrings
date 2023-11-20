@@ -1,0 +1,4 @@
+mkdocs==1.5.3
+mkdocstrings[python]==0.24.0
+mkdocs-material==9.4.10
+mypy==1.7.0
