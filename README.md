@@ -31,3 +31,7 @@ plugins:
 * The documentation can be rendered into static html using the terminal command <code>mkdocs build</code>. The output is written to the folder [/site/](./site/), which should be added to the [.gitignore](./.gitignore) file.
 
 * If the project code is already inside a GitHub repository, the documentation can be hosted on GitHub pages (at the url https://your-user-name.github.io/your-repo-name/) by running the terminal command <code>mkdocs gh-deploy</code>.
+
+# Automatic GitHub Deployment of Documentation
+
+https://github.com/nektos/act
