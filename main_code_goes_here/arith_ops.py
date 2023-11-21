@@ -1,4 +1,6 @@
-"""Defines basic arithmetic operations
+"""(this documentation was automatically extracted from the module docstring at the top of /main_code_goes_here/arith_ops.py)
+
+Defines basic arithmetic operations
 
 - `add(a, b)` - Returns the sum of two numbers.
 - `subtract(a, b)` - Returns the difference of two numbers.
@@ -6,7 +8,7 @@
 - `divide(a, b)` - Returns the quotient of two numbers.
 
 Examples:
-    >>> from calculator import arith_ops
+    >>> from main_code_goes_here import arith_ops
     >>> arith_ops.add(2, 4)
     6.0
     >>> arith_ops.multiply(2.0, 4.0)

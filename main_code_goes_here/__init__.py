@@ -1,4 +1,6 @@
-"""Functions for performing basic mathematical operations.
+"""(this text was automatically extracted from the docstring in __init__.py)
+
+Functions for performing basic mathematical operations.
 
 Modules exported by this package:
 

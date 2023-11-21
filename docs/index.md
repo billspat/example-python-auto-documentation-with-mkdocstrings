@@ -24,11 +24,4 @@ your use case by looking at the different pages.
 
 ## Project Overview
 
-::: calculator
-
-## Acknowledgements
-
-I want to thank my house plants for providing me with
-a negligible amount of oxygen each day. Also, I want
-to thank the sun for providing more than half of their
-nourishment free of charge.
+::: main_code_goes_here

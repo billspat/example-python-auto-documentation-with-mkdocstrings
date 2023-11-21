@@ -1,10 +1,12 @@
-"""Defines basic combinatoric operations
+"""(this documentation was automatically extracted from the module docstring at the top of /main_code_goes_here/combinatorics.py)
+
+Defines basic combinatoric operations
 
 - `permutations(values)` - Returns all permutations of a given list of values.
 - `combinations(values)` - Returns all combinations of a given list of values.
 
 Examples:
-    >>> from calculator import combinatorics
+    >>> from main_code_goes_here import combinatorics
     >>> combinatorics.permutations(["a","b","c"])
     [('a', 'b', 'c'), ('a', 'c', 'b'), ('b', 'a', 'c'), ('b', 'c', 'a'), ('c', 'a', 'b'), ('c', 'b', 'a')]
     >>> combinatorics.combinations([1,2,3,4], 3)
@@ -25,10 +27,10 @@ def permutations(values: list[T]) -> list[tuple[T, ...]]:
         [('sock', False), (False, 'sock')]
 
     Args:
-        values : A list of values (of any type)
+        values (list[Any]): A list of values (of any type)
 
     Returns:
-        list[tuple] : A list of tuples (matching the types in the original input)
+        list[tuple]: A list of tuples (matching the types in the original input)
     """
 
     return list(itertools.permutations(values))
@@ -42,8 +44,8 @@ def combinations(values: list[T], r: int) -> list[tuple[T, ...]]:
         [(1, 'dog'), (1, True), ('dog', True)]
 
     Args:
-        values : A list of values (of any type)
-        r : Number of elements in each returned group
+        values (list[Any]): A list of values (of any type)
+        r (int): Number of elements in each returned group
 
     Returns:
         list[tuple] : A list of tuples (matching the types in the original input)

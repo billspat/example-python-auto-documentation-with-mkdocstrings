@@ -1,4 +1,4 @@
-site_name: Calculator Docs
+site_name: Example Documentation using MkDocs and MkDocStrings
 
 theme:
   name: "material"
@@ -7,7 +7,7 @@ plugins:
   - mkdocstrings
 
 nav:
-  - Calculator Docs: index.md
+  - Example Docs using MkDocs and MkDocStrings: index.md
   - tutorials.md
   - How-To Guides: how-to-guides.md
   - reference.md
