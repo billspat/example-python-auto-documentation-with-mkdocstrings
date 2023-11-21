@@ -36,6 +36,8 @@ plugins:
 
 https://github.com/nektos/act
 
+I needed to also give GitHub actions "Read and Write permissions" on this repo (I did this on the GitHub website GUI - under Settings->Actions->General).
+
 # References 
 
 * https://realpython.com/python-project-documentation-with-mkdocs/
