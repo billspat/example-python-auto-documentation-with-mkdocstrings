@@ -38,6 +38,6 @@ https://github.com/nektos/act
 
 # References 
 
-* https://github.com/marketplace/actions/deploy-mkdocs
-
 * https://realpython.com/python-project-documentation-with-mkdocs/
+
+* https://blog.elmah.io/deploying-a-mkdocs-documentation-site-with-github-actions/
