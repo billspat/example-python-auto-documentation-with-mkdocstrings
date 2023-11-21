@@ -1,4 +1,4 @@
-# this code from https://blog.elmah.io/deploying-a-mkdocs-documentation-site-with-github-actions/
+# original code from https://blog.elmah.io/deploying-a-mkdocs-documentation-site-with-github-actions/ (I've edited it a bit)
 name: build
 on:
   push:

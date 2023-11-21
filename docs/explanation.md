@@ -1,3 +1,5 @@
+(all of the text on this page is from the Real Python tutorial [Build Your Python Project Documentation With MkDocs](https://realpython.com/python-project-documentation-with-mkdocs/))
+
 This part of the project documentation focuses on an
 **understanding-oriented** approach. You'll get a
 chance to read about the background of the project,
