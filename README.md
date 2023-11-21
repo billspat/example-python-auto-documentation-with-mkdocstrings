@@ -35,3 +35,9 @@ plugins:
 # Automatic GitHub Deployment of Documentation
 
 https://github.com/nektos/act
+
+# References 
+
+* https://github.com/marketplace/actions/deploy-mkdocs
+
+* https://realpython.com/python-project-documentation-with-mkdocs/
