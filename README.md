@@ -9,7 +9,9 @@ You can browse the static build of the documentation here: https://J-sephB-lt-n.
 
 # Instructions/Explanation of the Documentation Process 
 
-* Refer to [requirements.txt](./requirements.txt) for the required packages.
+### *completely stolen (forked) from https://github.com/J-sephB-lt-n*
+
+* Refer to [requirements.txt](./requirements.txt) for the required packages.  
 
 * The initial MkDocs files were created by running <code>mkdocs new .</code> in terminal from the root project directory. This command creates the files [makedocs.yml](./makedocs.yml) and [/docs/index.md](./docs/index.md).
 
